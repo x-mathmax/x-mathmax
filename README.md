@@ -1,5 +1,4 @@
-### Hello, I'm Bárbara 👋
-I’m currently learning Systems Programming ♡
+### Hello, I'm Bárbara♡
 
 
 <!--
