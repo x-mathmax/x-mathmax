@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Bárbara 👋
+I’m currently learning Systems Programming ♡
+
 
 <!--
 **barbaramolinari/barbaramolinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
