@@ -1,6 +1,6 @@
 ### Hello, I'm Bárbara♡
 
-Currently studying a technical degree in computer programming at UTN.
+Currently studying a Technical Degree in Computer Programming at UTN.
 
 ![](https://github.com/barbaramolinari/images/blob/main/heart4.jpg)
 <!--
