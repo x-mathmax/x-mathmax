@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/barbaramolinari/images/blob/main/heart.jpg)
+![]()
