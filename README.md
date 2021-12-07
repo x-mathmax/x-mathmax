@@ -2,7 +2,7 @@
 I'm from Buenos Aires, Argentina.
 
 
-<div align=”center”> ![](https://github.com/barbaramolinari/images/blob/main/heart2.jpg)</div>
+<div align=”center”> [![](https://github.com/barbaramolinari/images/blob/main/heart2.jpg)]</div>
 <!--
 **barbaramolinari/barbaramolinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
