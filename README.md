@@ -1,8 +1,7 @@
 ### Hello, I'm Bárbara♡
-I'm from Buenos Aires, Argentina.
 
 
-<div align=”center”> [![](https://github.com/barbaramolinari/images/blob/main/heart2.jpg)]</div>
+![](https://github.com/barbaramolinari/images/blob/main/heart2.jpg)
 <!--
 **barbaramolinari/barbaramolinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
