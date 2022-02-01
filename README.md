@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **a proyect like a Data Engineer**
 
 - 🌱 I’m currently studying **a Technical Degree in Computer Programming at UTN.**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
