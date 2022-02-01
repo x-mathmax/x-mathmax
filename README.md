@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **a Technical Degree in Computer Programming at UTN.**
 
-- 🔭 I’m currently working on **a personal proyect as frontend.**
+- 🔭 I’m currently working on **a personal proyect in frontend area.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
