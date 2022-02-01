@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bárbara ♡</h1>
+<h1 align="center">Welcome, I'm Bárbara M.✨</h1>
 <h3 align="center">A passionate developer from Buenos Aires, Argentina.</h3>
 
 - 🔭 I’m currently working on **a proyect as a Data Engineer**
