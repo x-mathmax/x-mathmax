@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, I'm Bárbara M.✨</h1>
 <h3 align="center">A passionate developer from Buenos Aires, Argentina.</h3>
 
-- 🔭 I’m currently working on **a proyect as a Data Engineer**
+- 🔭 I’m currently working **as Business Solution Implementer**
 
 - 🌱 I’m currently studying **a Technical Degree in Computer Programming at UTN.**
 
