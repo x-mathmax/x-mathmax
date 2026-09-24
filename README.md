@@ -1,9 +1,9 @@
 <h1 align="center">Welcome, I'm Bárbara M.✨</h1>
 <h3 align="center">A passionate developer from Buenos Aires, Argentina.</h3>
 
-<!--- 🔭 I’m currently working **as Business Solution Implementer**--->
+🔭 I’m currently working **as a Software Developer**
 
-- 🌱 I’m currently studying **a Technical Degree in Computer Programming at UTN.**
+<!---  🌱 I’m currently studying **a Technical Degree in Computer Programming at UTN.**--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
